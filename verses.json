@@ -1,0 +1,11 @@
+{
+  "how_to_add": "Add the new verse as the LAST entry of the verses array. Newest-at-the-bottom is the rule; the game's API reverses this list, so the last entry here becomes VERSE OF THE WEEK at edoyama.com/biblerace. Keep ref like 'Book C:V'. Commit and push to main; live within ~10 minutes. Full procedure: README.md.",
+  "verses": [
+    { "ref": "Ephesians 1:4", "text": "For he chose us in him before the creation of the world to be holy and blameless in his sight." },
+    { "ref": "Jeremiah 29:11", "text": "“For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.”" },
+    { "ref": "John 17:3", "text": "This is eternal life: that they may know you, the only true God, and the One you have sent - Jesus Christ." },
+    { "ref": "1 Corinthians 13:13", "text": "And now these three remain: faith, hope and love. But the greatest of these is love." },
+    { "ref": "Matthew 10:31", "text": "So don't be afraid. You are worth more than many sparrows." },
+    { "ref": "1 Peter 4:10", "text": "Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace in its various forms." }
+  ]
+}
